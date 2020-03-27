@@ -17,4 +17,4 @@ The amount of data is much larger than ever before
 
 Those two points above lead to the fact that companies can try tons of small variations of the product and are able to estimate extremely small improvements. All major tech companies are running hundreds of A/B tests at the same time.
 
-We will start here by looking at a classical A/B testing project. And then we will focus on specific A/B testing topics, such as novelty effect, sample size, and user randomization
+In this project I mainly focused on  a few specific A/B testing topics, such as novelty effect, sample size, and user randomization
